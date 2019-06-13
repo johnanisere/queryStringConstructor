@@ -10,6 +10,10 @@
   "scripts": {
     "test": "jest --watchAll"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnanisere/queryStringConstructor.git"
+  },
+  "author": "John Anisere",
   "license": "ISC"
 }
