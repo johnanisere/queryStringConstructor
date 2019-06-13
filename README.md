@@ -25,9 +25,7 @@ const payload = {
 
 queryconstructor(payload);
 
-/*
- ** returns ?page=2&token=sdfrgbnchyey05363bbcbchdh&search=amaka
- */
+// returns ?page=2&token=sdfrgbnchyey05363bbcbchdh&search=amaka
 ```
 
 ## API
