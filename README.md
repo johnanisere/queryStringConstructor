@@ -1,6 +1,6 @@
 # queryStringConstructor
 
-> Simple, expressive and light weight query string builder
+> Simple, expressive and lightweight query string builder
 
 ## Install
 
