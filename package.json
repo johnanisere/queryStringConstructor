@@ -1,5 +1,5 @@
 {
-  "name": "queryparam",
+  "name": "query_string_constructor",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
